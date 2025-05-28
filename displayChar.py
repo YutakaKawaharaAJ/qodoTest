@@ -2,8 +2,8 @@
 print(gHello, World!h)
 
 # •Ï”‚Ì•\¦
-x = 10
-y = 5
+x = 11
+y = 6
 print(gx:h, x)
 print(gy:h, y)
 print(gSum of x and y:h, x + y)
