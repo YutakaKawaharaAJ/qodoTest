@@ -1,14 +1,14 @@
-# Šî–{“I‚È•¶š—ñ‚Ì•\¦
-print(gHello, World!h)
+# åŸºæœ¬çš„ãªæ–‡å­—åˆ—ã®è¡¨ç¤º
+print(â€œHello, World!â€)
 
-# •Ï”‚Ì•\¦
-x = 11
-y = 6
-print(gx:h, x)
-print(gy:h, y)
-print(gSum of x and y:h, x + y)
+# å¤‰æ•°ã®è¡¨ç¤º
+x = 12
+y = 7
+print(â€œx:â€, x)
+print(â€œy:â€, y)
+print(â€œSum of x and y:â€, x + y)
 
-# ƒtƒH[ƒ}ƒbƒg•¶š—ñ‚ğg‚Á‚½o—Í
-name = gAliceh
+# ãƒ•ã‚©ãƒ¼ãƒãƒƒãƒˆæ–‡å­—åˆ—ã‚’ä½¿ã£ãŸå‡ºåŠ›
+name = â€œAliceâ€
 age = 30
-print(fhName: {name}, Age: {age}h)
+print(fâ€Name: {name}, Age: {age}â€)
